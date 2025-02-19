@@ -6,6 +6,7 @@ Pertanyaan Praktikum 1
     - VS Code = text editor yang digunakan untuk menulis kode program 
     - NodeJs = digunakan untuk mengembangkan aplikasi web berbasis JavaScript
 2. Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
+   
     ![Deskripsi Gambar](asset/image.png)
 
 
